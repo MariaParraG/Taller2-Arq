@@ -1,1 +1,1 @@
-# Taller2-Arq
+# Taller 2 Arquitectura de Computadores
